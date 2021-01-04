@@ -1,0 +1,57 @@
+.index-page {
+
+    .instructions-container {
+        padding: 2rem 3rem;
+        width: 35rem;
+        max-width: 100%;
+        margin: 0 auto;
+        background: white;
+        border-radius: var(--border-radius-big);
+    }
+
+    .tutorial-steps {
+        margin-bottom: 1rem;
+
+        .circle {
+            display: inline-block;
+            width: 1rem;
+            height: 1rem;
+            border-radius: 50%;
+            border: 3px solid transparent;
+            background: var(--primary-light);
+
+            &.active, &:hover {
+                border-color: var(--primary);
+            }
+
+            &:not(:last-child) {
+                margin-right: .7rem;
+            }
+
+            &.filled {
+                background: var(--primary);
+            }
+
+        }
+    }
+
+    .icon-coin {
+        width: 1.5rem;
+        height: 1.5rem;
+        margin-right: .4rem;
+    }
+    
+    .text-input {
+        display: block;
+        width: 100%;
+        padding: .4rem .8rem;
+        font-size: 100%;
+        border-radius: var(--border-radius);
+        border: 3px solid var(--gray-light-5);
+
+        &:focus, &.active, &:active {
+            border-color: var(--primary);
+            outline: none;
+        }
+    }
+}

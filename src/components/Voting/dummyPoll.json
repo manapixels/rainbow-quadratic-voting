@@ -1,0 +1,88 @@
+{
+    "budget": 100,
+    "id": 1111,
+    "instanceOf": "digital-adoption-poll",
+    "question": "Which of the following groups do you think needs the most support with digital adoption?",
+    "choices": [
+        {
+            "id": "choice1111a",
+            "name": "Seniors"
+        },
+        {
+            "id": "choice1111b",
+            "name": "Small & Medium Sized Enterprises"
+        },
+        {
+            "id": "choice1111c",
+            "name": "Hawkers"
+        },
+        {
+            "id": "choice1111d",
+            "name": "Students"
+        },
+        {
+            "id": "choice1111e",
+            "name": "Persons with disabilities"
+        }
+    ],
+    "results": {
+        "participants": 40,
+        "choices": [
+            {
+                "id": "choice1111a",
+                "name": "Seniors",
+                "votes": 75
+            },
+            {
+                "id": "choice1111b",
+                "name": "Small & Medium Sized Enterprises",
+                "votes": 27
+            },
+            {
+                "id": "choice1111c",
+                "name": "Hawkers",
+                "votes": 6
+            },
+            {
+                "id": "choice1111d",
+                "name": "Students",
+                "votes": 34
+            },
+            {
+                "id": "choice1111e",
+                "name": "Persons with disabilities",
+                "votes": 103
+            }
+        ]
+    },
+    "aggregated_results": {
+        "participants": 260,
+        "choices": [
+            {
+                "id": "choice1111a",
+                "name": "Seniors",
+                "votes": 618
+            },
+            {
+                "id": "choice1111b",
+                "name": "Small & Medium Sized Enterprises",
+                "votes": 129
+            },
+            {
+                "id": "choice1111c",
+                "name": "Hawkers",
+                "votes": 77
+            },
+            {
+                "id": "choice1111d",
+                "name": "Students",
+                "votes": 144
+            },
+            {
+                "id": "choice1111e",
+                "name": "Persons with disabilities",
+                "votes": 391
+            }
+        ]
+    }
+}

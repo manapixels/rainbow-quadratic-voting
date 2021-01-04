@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1111,
+        "question": "Which of the following groups do you think needs the most support with digital adoption?",
+        "choices": [
+            {
+                "id": "choice1111a",
+                "name": "Seniors"
+            },
+            {
+                "id": "choice1111b",
+                "name": "Small & Medium Sized Enterprises"
+            },
+            {
+                "id": "choice1111c",
+                "name": "Hawkers"
+            },
+            {
+                "id": "choice1111d",
+                "name": "Students"
+            },
+            {
+                "id": "choice1111e",
+                "name": "Persons with disabilities"
+            }
+        ]
+    },
+    {
+        "id": 2222,
+        "question": "Which aspect of a country is the most important to you?",
+        "choices": [
+            {
+                "id": "choice2222a",
+                "name": "Safe & Smart Nation"
+            },
+            {
+                "id": "choice2222b",
+                "name": "Stronger Economy"
+            },
+            {
+                "id": "choice2222c",
+                "name": "Stronger Workforce"
+            },
+            {
+                "id": "choice2222d",
+                "name": "Stronger Society & Community"
+            },
+            {
+                "id": "choice2222e",
+                "name": "Being Green & Sustainable"
+            }
+        ]
+    }
+]
