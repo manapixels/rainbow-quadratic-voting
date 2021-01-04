@@ -1,1 +1,1 @@
-# Quadratic Voting
+# Rainbow Quadratic Voting
